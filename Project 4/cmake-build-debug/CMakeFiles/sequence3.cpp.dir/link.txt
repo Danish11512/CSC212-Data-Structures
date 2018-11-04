@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\sequence3.cpp.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\sequence3.cpp.dir/objects.a @CMakeFiles\sequence3.cpp.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\sequence3.cpp.dir/objects.a -Wl,--no-whole-archive  -o sequence3.cpp.exe -Wl,--out-implib,libsequence3.cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sequence3.cpp.dir\linklibs.rsp
