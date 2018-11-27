@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/danis/CLionProjects/Project 5/maze.h
+
+C:/Users/danis/CLionProjects/Project 5/recursion.cpp
+iostream
+-
+stdlib.h
+-
+maze.h
+C:/Users/danis/CLionProjects/Project 5/maze.h
+
